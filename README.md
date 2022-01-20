@@ -4,6 +4,7 @@
 1. Copy the opentsdb-nodejs folder to your machine
 2. Run npm install in the directory /opentsdb-nodejs
 
+
     opentsdb-nodejs/
     ├── auth_handler.js       ## Contains APIs related to authentication       
     ├── config
